@@ -28,8 +28,9 @@ For now it supports following languages:
  
 ## Installation 
 
-If you are new to Tars, please read documentation [Install.md](Install.md).
-If you are familar to Tars, refer to scripts in directory [build](build), may some modification needed.
+1. If you are new to Tars, please read documentation [Deploy.md](Deploy.md).
+2. First deploy, please read documentation [Install.md](Install.md).
+3. Install by docker, detail information: [TarsDocker](https://github.com/TarsCloud/TarsDocker)。
 
 ## Performance
 
@@ -58,9 +59,11 @@ The open-source protocol Tars used is BSD-3-Clause, see [LICENSE.TXT](LICENSE.TX
 
 ## Contacts
 
-qq group code-1：579079160 (full)
+qq group code-1: 579079160 
 
-qq group code-2：579079160
+qq group code-2: 669339903
 
-WeChat：TARS01
+WeChat: TARS01
+
+Twitter: https://twitter.com/TarsCloud
 
